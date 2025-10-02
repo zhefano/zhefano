@@ -1,6 +1,6 @@
 # 👋 Frontend Developer
 
-Frontend development student building web applications with modern frameworks and technologies.
+Frontend development building web applications with modern frameworks and technologies.
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-gill-136763306) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cubza@protonmail.com)
